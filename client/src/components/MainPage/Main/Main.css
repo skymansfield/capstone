@@ -1,0 +1,12 @@
+#user{
+  text-transform: capitalize;
+}
+#bg-color{
+    background-image: url('../../../assets/images/dark-honeycomb.png');
+}
+.comment-h1{
+  color: whitesmoke;
+  text-shadow: 2px 1px 3px red;
+  margin-bottom: 25px;
+  opacity: .8;
+}

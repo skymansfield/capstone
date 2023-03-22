@@ -1,0 +1,12 @@
+#log{
+  color: red;
+  font-size: 20px;
+  text-shadow: 2px 1px black;
+  text-decoration: none;
+}
+a:hover{
+  color: whitesmoke;
+}
+.logout{
+  padding-bottom: 2%;
+}

@@ -1,0 +1,22 @@
+.com-sub-btn{
+margin-left: 3%;
+background-color: red;
+width: 10%;
+height: 4vh;
+opacity: .6;
+margin-bottom: 20px;
+color: black;
+border:1px solid grey;
+font-weight: 600;
+}
+#sub-btn{
+  padding-bottom: 2.3%;
+}
+#comment{
+height: 40px;
+width: 20%;
+margin-bottom: 1%;
+padding: 2px 2px 4px 25px;
+margin-left: 2.5%;
+border-radius: 5px;
+}

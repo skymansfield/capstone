@@ -1,0 +1,18 @@
+.com-text{
+  text-transform: capitalize;
+  color: whitesmoke;
+  margin-top: 10px;
+  
+}
+.band-btn{
+  background-color: rgba(128, 128, 128, 0.6);
+  font-size: 25px;
+  font-weight: bold;
+text-shadow: 1px 1px 2px whitesmoke;
+box-shadow: 1px 1px 1px red;
+font-family: comic;
+margin-left: 2%;
+}
+.band-btn:hover{
+   background-color: rgba(128, 128, 128, 0.9);
+}
